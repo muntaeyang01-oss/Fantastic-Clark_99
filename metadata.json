@@ -1,0 +1,8 @@
+{
+  "name": "FANTASTIC CLARK Casino Agency",
+  "description": "Premium Casino Agency Website with integrated Admin Dashboard and CMS features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
